@@ -1,0 +1,16 @@
+site_name: MemoryGame - Caixa Federal
+theme:
+  name: material
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.top
+    - navigation.tracking
+
+extra_css:
+  - stylesheets/styles.css
+
+nav:
+  - Início: index.md
